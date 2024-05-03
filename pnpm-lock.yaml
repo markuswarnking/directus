@@ -53,15 +53,6 @@ importers:
       '@directus/errors':
         specifier: workspace:*
         version: link:../packages/errors
-      '@directus/extensions':
-        specifier: workspace:*
-        version: link:../packages/extensions
-      '@directus/extensions-registry':
-        specifier: workspace:*
-        version: link:../packages/extensions-registry
-      '@directus/extensions-sdk':
-        specifier: workspace:*
-        version: link:../packages/extensions-sdk
       '@directus/format-title':
         specifier: workspace:*
         version: link:../packages/format-title
